@@ -1,4 +1,3 @@
-# Semantic_Spotter_Lamaindex
 # Semantic Spotter Project GenAI
 Simplifying insurance document queries with the power of Retrieval-Augmented Generation (RAG) and advanced embeddings with Llama-Index and OpenAI's GPT models.
 
